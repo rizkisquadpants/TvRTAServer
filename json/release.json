@@ -1,0 +1,6 @@
+{
+    "versionCode": 100,
+    "versionName": "v1.0",
+    "changelog": ["update default playlist", "app in landscape mode", "ffmpeg libs", "optimize prebuffer", "change player layout", "and more.."],
+    "downloadUrl": "https://github.com/rizkisquadpants/TvRTAServer/releases/download/v1.0/net.rtaserver.tv_v1.0_b100.apk"
+}
