@@ -1,6 +1,6 @@
 {
     "versionCode": 101,
-    "versionName": "v1.0",
+    "versionName": "v1.1",
     "changelog": ["update default playlist", "optimize prebuffer","and more.."],
     "downloadUrl": "https://github.com/rizkisquadpants/TvRTAServer/releases/download/v1.1/net.rtaserver.tv_v1.0_b101.apk"
 }
